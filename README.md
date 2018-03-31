@@ -11,6 +11,13 @@ A web application which provides an **innovative way of taking attendance in cla
 * [mySQL Database](https://www.mysql.com/)
 * [PHP](http://www.php.net/)
 
-## Demo [Classroom Assistance](http://classroomassistance.esy.es/web/index.php)
+## Built By
+
+* [Keshav Garg]()
+* [Pratham Gupta](https://github.com/null97)
+* [Pratik Chhaer](https://github.com/Pratik-Chhajer)
+* [Thota Venkata Sainath](https://github.com/nathias2004)
+
+## Demo: [Classroom Assistance](http://classroomassistance.esy.es/web/index.php)
 
 ![Alt text](images/1.gif?raw=true "Classroom Assistance Demo")
